@@ -34,13 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Morwal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Morwal&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ashish-morwal-8abb5825a/)
